@@ -503,16 +503,7 @@ class AbdullaAlNoman:
   
   <i>
     <b>© 2025 Abdulla Al Noman</b><br/>
-    Made with 💙 in Bangladesh 🇧🇩<br/>
-    <a href="https://github.com/abdulla2025">GitHub</a> • 
-    <a href="https://www.linkedin.com/in/abdulla-alnoman/">LinkedIn</a> • 
-    <a href="https://www.youtube.com/@ABDULLA-AL-NOMAN">YouTube</a>
   </i>
   
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github.com/abdulla2025/abdulla2025/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
