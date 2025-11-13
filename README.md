@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=4A6A85&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Abdulla+Al+Noman;Aspiring+MLOps+Engineer;Machine+Learning+Enthusiast;Robotics+Secretary+@ROBU;3x+Marathon+Runner;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=4A6A85&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Noman;Aspiring+MLOps+Engineer;Machine+Learning+Enthusiast;Robotics+Secretary+@ROBU;3x+Marathon+Runner;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -418,7 +418,7 @@
 > *"The only way to do great work is to love what you do. Stay hungry, stay foolish."* - Steve Jobs
 
 ---
-
+<!-- 
 ## 📊 Profile Statistics & Analytics
 
 <div align="center">
@@ -431,15 +431,12 @@
   
 </div>
 
----
-
+--- -->
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=24&pause=1000&color=4a6a85&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations+and+opportunities!+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7" alt="Closing Message" />
   
 </div>
-
-<br/>
 
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Made%20with%20❤️%20by%20Abdulla%20Al%20Noman&fontSize=20&fontColor=fff&animation=twinkling" />
@@ -449,30 +446,9 @@
 
 <div align="center">
   
-  <!-- <h3>⭐ Show Some Love!</h3>
-  
-  <p>If you like my work, please consider:</p>
-  
-  <p>
-    <a href="https://github.com/abdulla2025?tab=repositories">
-      <img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Repos" />
-    </a>
-    <a href="https://github.com/abdulla2025">
-      <img src="https://img.shields.io/badge/👤_Follow_Me-4a6a85?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
-    </a>
-    <a href="https://www.linkedin.com/in/abdulla-alnoman/">
-      <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A6A85&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Crafted+with+passion+and+dedication;%F0%9F%92%BB+Powered+by+curiosity+and+innovation;%F0%9F%8C%9F+Building+the+future%2C+one+line+at+a+time" alt="Footer Animation" />
-  
-  <br/><br/> -->
   
   <i>
-    <b>© 2025 Abdulla Al Noman</b><br/>
+    <b>© 2025.Noman</b><br/>
   </i>
   
 </div>
