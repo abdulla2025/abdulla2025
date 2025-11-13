@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Stylish Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Abdulla%20Al%20Noman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20MLOps%20Engineer%20|%20ML%20Enthusiast%20|%20ROBU%20Secretary&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Abdulla%20Al%20Noman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20MLOps%20Engineer%20|%20AI%20Enthusiast%20|%20ROBU%20Secretary&descAlignY=55&descSize=18" />
 
 </div>
 
@@ -41,28 +41,6 @@
 🏃‍♂️ **3x Marathon Runner** | 🎥 **YouTube Creator** | 📸 **Photography Enthusiast**  
 🌍 **Travel Lover** | 🎵 **Music Enthusiast** | 🤝 **Community Volunteer**
 
-```python
-class AbdullaAlNoman:
-    def __init__(self):
-        self.name = "Abdulla Al Noman"
-        self.role = "Aspiring MLOps Engineer"
-        self.education = "CSE @ BRAC University"
-        self.location = "Dhaka, Bangladesh"
-        
-    def get_current_focus(self):
-        return [
-            "Building ML pipelines and deployment systems",
-            "Exploring Deep Learning and Neural Networks",
-            "Leading robotics projects at ROBU",
-            "Creating educational content on YouTube",
-            "Solving complex DSA problems"
-        ]
-    
-    def get_hobbies(self):
-        return ["Marathon Running", "Photography", "Traveling", 
-                "Music", "Community Service", "Tech Blogging"]
-```
-
 ---
 
 ## 🚀 What I'm Up To
@@ -70,7 +48,6 @@ class AbdullaAlNoman:
 - 🔭 Currently working on **ML/AI Projects** and **Robotics Systems**
 - 🌱 Learning **MLOps**, **Deep Learning**, and **Advanced Computer Vision**
 - 👯 Leading projects at **ROBU** and mentoring fellow students
-- 🎬 Creating tech content on [YouTube](https://www.youtube.com/@ABDULLA-AL-NOMAN)
 - 🏃 Training for my next marathon!
 - 💬 Ask me about **Machine Learning, Robotics, MERN Stack, or Marathon Training**
 - ⚡ Fun fact: **I've completed 3 marathons and still love running!**
@@ -277,10 +254,10 @@ class AbdullaAlNoman:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulla2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4a6a85&icon_color=4a6a85&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=abdulla2025&theme=tokyonight&hide_border=true&background=0d1117&stroke=4a6a85&ring=4a6a85&fire=4a6a85&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4a6a85&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <br/>
 
@@ -345,6 +322,7 @@ class AbdullaAlNoman:
     <a href="https://github.com/abdulla2025" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-abdulla2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    </br></br>
     <a href="https://www.youtube.com/@ABDULLA-AL-NOMAN" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-ABDULLA%20AL%20NOMAN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
@@ -445,19 +423,11 @@ class AbdullaAlNoman:
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=abdulla2025&color=4a6a85&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/github/followers/abdulla2025?style=for-the-badge&color=4a6a85&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
-      </td>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/github/stars/abdulla2025?style=for-the-badge&color=4a6a85&logo=github&label=TOTAL+STARS" alt="GitHub Stars" />
-      </td>
-    </tr>
-  </table>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdulla2025&color=4a6a85&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abdulla2025?style=for-the-badge&color=4a6a85&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abdulla2025?style=for-the-badge&color=4a6a85&logo=github&label=TOTAL+STARS" alt="GitHub Stars" />
+</p>
   
 </div>
 
@@ -479,7 +449,7 @@ class AbdullaAlNoman:
 
 <div align="center">
   
-  <h3>⭐ Show Some Love!</h3>
+  <!-- <h3>⭐ Show Some Love!</h3>
   
   <p>If you like my work, please consider:</p>
   
@@ -499,7 +469,7 @@ class AbdullaAlNoman:
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=4A6A85&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Crafted+with+passion+and+dedication;%F0%9F%92%BB+Powered+by+curiosity+and+innovation;%F0%9F%8C%9F+Building+the+future%2C+one+line+at+a+time" alt="Footer Animation" />
   
-  <br/><br/>
+  <br/><br/> -->
   
   <i>
     <b>© 2025 Abdulla Al Noman</b><br/>
