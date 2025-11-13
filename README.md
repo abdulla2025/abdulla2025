@@ -279,14 +279,14 @@ class AbdullaAlNoman:
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulla2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4a6a85&icon_color=4a6a85&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulla2025&theme=tokyonight&hide_border=true&background=0d1117&stroke=4a6a85&ring=4a6a85&fire=4a6a85&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4a6a85&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=abdulla2025&theme=tokyonight&hide_border=true&background=0d1117&stroke=4a6a85&ring=4a6a85&fire=4a6a85&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4a6a85&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=4a6a85&text_color=c9d1d9&border_radius=10&card_width=400" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=abdulla2025&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a6a85&text_color=c9d1d9&border_radius=10" alt="Top Contributions" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulla2025&theme=github_dark" alt="Stats Summary" />
 </div>
 
 <br/>
@@ -301,26 +301,13 @@ class AbdullaAlNoman:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulla2025&bg_color=0d1117&color=4a6a85&line=4a6a85&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulla2025&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulla2025&theme=github_dark" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulla2025&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulla2025&theme=github_dark&utcOffset=6" alt="Productive Time" />
-</div>
-
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdulla2025&theme=algolia&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&title=Commits,Repositories,PullRequest,Stars,Issues,Followers,MultiLanguage,Experience" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdulla2025&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
-
-<div align="center">
-  
-  [![GitHub Achievements](https://github-profile-achievement-badges.vercel.app/api/all?username=abdulla2025&theme=algolia)](https://github.com/abdulla2025)
-  
-</div>
 
 ---
 
@@ -343,6 +330,8 @@ class AbdullaAlNoman:
   
   <h3>💼 Let's Build Something Amazing Together!</h3>
   
+  <br/>
+  
   <p>
     <a href="mailto:abdulla.al.noman.2025@gmail.com">
       <img src="https://img.shields.io/badge/Email-abdulla.al.noman.2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -360,50 +349,6 @@ class AbdullaAlNoman:
       <img src="https://img.shields.io/badge/YouTube-ABDULLA%20AL%20NOMAN-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
   </p>
-  
-  <br/>
-  
-  <!-- Elegant Social Icons -->
-  <p>
-    <a href="https://www.linkedin.com/in/abdulla-alnoman/" target="_blank">
-      <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/abdulla2025" target="_blank">
-      <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60" alt="GitHub"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@ABDULLA-AL-NOMAN" target="_blank">
-      <img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="60" alt="YouTube"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:abdulla.al.noman.2025@gmail.com">
-      <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60" alt="Email"/>
-    </a>
-  </p>
-  
-  <br/>
-  
-  <!-- Professional Contact Card -->
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/email.png" width="50"/><br/>
-        <b>Email</b><br/>
-        <a href="mailto:abdulla.al.noman.2025@gmail.com">abdulla.al.noman.2025@gmail.com</a>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50"/><br/>
-        <b>LinkedIn</b><br/>
-        <a href="https://www.linkedin.com/in/abdulla-alnoman/">Abdulla Al Noman</a>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="50"/><br/>
-        <b>YouTube</b><br/>
-        <a href="https://www.youtube.com/@ABDULLA-AL-NOMAN">@ABDULLA-AL-NOMAN</a>
-      </td>
-    </tr>
-  </table>
   
   <br/>
   
@@ -441,14 +386,6 @@ class AbdullaAlNoman:
 - **ESP32 IoT Projects** - Smart home automation and sensor networks
 - **Arduino-based Systems** - Various robotics and automation projects
 - **3D Shooter Game** - Game development with physics engine
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulla2025&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
