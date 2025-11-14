@@ -343,9 +343,9 @@
 - [ ] Complete advanced certifications in Deep Learning
 - [ ] Build and deploy 5+ end-to-end ML projects
 - [ ] Run my 4th marathon
-- [ ] Grow YouTube channel to 10K+ subscribers
+- [ ] Grow YouTube channel to subscribers
 - [ ] Lead major robotics project at ROBU
-- [ ] Publish research paper on ML/AI
+- [ ] Publish research papers on Cybersecurity & AI
 
 ---
 
