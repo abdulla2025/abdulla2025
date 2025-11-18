@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=4A6A85&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Noman;Aspiring+MLOps+Engineer;Machine+Learning+Enthusiast;Robotics+Secretary+@ROBU;3x+Marathon+Runner;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=4A6A85&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Noman;Aspiring+MLOps+Engineer;Machine+Learning+Enthusiast;Robotics+Secretary+@ROBU;3x+Marathon+Runner;Full+Stack+Developer;Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Passionate+About+AI%2C+ML+%26+Robotics+%F0%9F%A4%96;Building+the+Future+with+Technology+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Collaborations+and+Opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -18,11 +18,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4A6A85&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Passionate+About+AI%2C+ML+%26+Robotics+%F0%9F%A4%96;Building+the+Future+with+Technology+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Collaborations+and+Opportunities+%F0%9F%A4%9D" alt="Typing Animation" />
-  </a>
-</p>
 
 <!-- Animated GIF -->
 <p align='center'>
