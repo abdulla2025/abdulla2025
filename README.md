@@ -13,8 +13,6 @@
   
   <!-- Animated Badges -->
   <img src="https://komarev.com/ghpvc/?username=abdulla2025&label=Profile%20Views&color=4a6a85&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdulla2025?label=Followers&style=for-the-badge&color=4a6a85&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abdulla2025?label=Total%20Stars&style=for-the-badge&color=4a6a85&logo=github" alt="Stars" />
   
 </div>
 
