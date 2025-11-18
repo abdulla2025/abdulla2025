@@ -26,32 +26,32 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **4th Year CSE Student** at BRAC University, Bangladesh  
-🤖 **Secretary** at Robotics Club of BRAC University (ROBU)  
-💡 **Passionate** about Machine Learning, AI, and Cutting-edge Technologies  
-🏃‍♂️ **3x Marathon Runner** | 🎥 **YouTube Creator** | 📸 **Photography Enthusiast**  
-🌍 **Travel Lover** | 🎵 **Music Enthusiast** | 🤝 **Community Volunteer**
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 Currently working on **ML/AI Projects** and **Robotics Systems**
-- 🌱 Learning **MLOps**, **Deep Learning**, and **Advanced Computer Vision**
-- 👯 Leading projects at **ROBU** and mentoring fellow students
-- 🏃 Training for my next marathon!
-- 💬 Ask me about **Machine Learning, Robotics, MERN Stack, or Marathon Training**
-- ⚡ Fun fact: **I've completed 3 marathons and still love running!**
+ **4th Year CSE Student** at BRAC University, Bangladesh  
+ **Secretary** at Robotics Club of BRAC University (ROBU)  
+ **Passionate** about Machine Learning, AI, and Cutting-edge Technologies  
+ **3x Marathon Runner** | **YouTube Creator** | **Photography Enthusiast**  
+ **Travel Lover** | **Music Enthusiast** | **Community Volunteer**
 
 ---
 
-## 💼 Technical Skills
+## What I'm Up To
+
+-  Currently working on **ML/AI Projects** and **Robotics Systems**
+-  Learning **MLOps**, **Deep Learning**, and **Advanced Computer Vision**
+-  Leading projects at **ROBU** and mentoring fellow students
+-  Training for my next marathon!
+-  Ask me about **Machine Learning, Robotics, MERN Stack, or Marathon Training**
+-  Fun fact: **I've completed 3 marathons and still love running!**
+
+---
+
+##  Technical Skills
 
 <div align="center">
   
-  ### 🎯 Core Competencies
+  ###  Core Competencies
   
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,mysql,tensorflow,pytorch,docker,git,linux,vscode,arduino,raspberrypi&perline=8" />
   
@@ -59,7 +59,7 @@
 
 <br/>
 
-### 🤖 AI/ML & Deep Learning
+###  AI/ML & Deep Learning
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-### 🗣️ NLP & Voice Technology
+###  NLP & Voice Technology
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 ---
 
-### 🌐 Web Development
+###  Web Development
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 
 ---
 
-### ⚙️ Hardware & Embedded Systems
+###  Hardware & Embedded Systems
 
 <div align="center">
 
@@ -188,7 +188,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 <div align="center">
 
@@ -230,7 +230,7 @@
 
 ---
 
-### 🎯 Soft Skills & Leadership
+###  Soft Skills & Leadership
 
 <div align="center">
 
@@ -245,7 +245,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulla2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4a6a85&icon_color=4a6a85&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
@@ -273,7 +273,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdulla2025&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
@@ -281,24 +281,24 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+##  Achievements & Highlights
 
-- 🥇 **Secretary** at Robotics Club of BRAC University (ROBU)
-- 🏃‍♂️ **3x Marathon Runner** - Completed multiple full marathons
-- 🥉 **DofE Bronze Award** Holder
-- 📚 **18+ Technical Certifications** in AI/ML, Deep Learning, and Algorithms
-- 🤖 **15+ Projects** in ML, Robotics, Web Development, and Embedded Systems
-- 🎥 **YouTube Creator** - Educational tech content
-- 🌟 **2.5+ Years** of leadership experience at ROBU
-- 📸 **Photography Enthusiast** - Capturing moments and stories
+-  **Secretary** at Robotics Club of BRAC University (ROBU)
+-  **3x Marathon Runner** - Completed multiple full marathons
+-  **DofE Bronze Award** Holder
+-  **18+ Technical Certifications** in AI/ML, Deep Learning, and Algorithms
+-  **15+ Projects** in ML, Robotics, Web Development, and Embedded Systems
+-  **YouTube Creator** - Educational tech content
+-  **2.5+ Years** of leadership experience at ROBU
+-  **Photography Enthusiast** - Capturing moments and stories
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
-  <h3>💼 Let's Build Something Amazing Together!</h3>
+  <h3> Let's Build Something Amazing Together!</h3>
   
   <br/>
   
@@ -329,7 +329,7 @@
 
 ---
 
-## 🎯 Current Goals for 2025
+##  Current Goals for 2025
 
 - [ ] Master MLOps and deploy production-ready ML systems
 - [ ] Contribute to open-source AI/ML projects
@@ -342,25 +342,25 @@
 
 ---
 
-## 💡 Featured Projects
+##  Featured Projects
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 - **Brain Tumor MRI Classification & Segmentation** - Deep Learning for medical image analysis
 - **Traffic Sign & Lane Detection** - Computer Vision for autonomous vehicles
 - **Voice Recognition System** - NLP and speech processing
 
-### 🌐 Full Stack Development
+###  Full Stack Development
 - **MERN Portfolio Website** - Modern responsive portfolio with admin panel
 - **Medzy Healthcare Platform** - Full-stack medical consultation system
 
-### ⚙️ Robotics & Embedded Systems
+###  Robotics & Embedded Systems
 - **ESP32 IoT Projects** - Smart home automation and sensor networks
 - **Arduino-based Systems** - Various robotics and automation projects
 - **3D Shooter Game** - Game development with physics engine
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+##  Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
 - Coming soon on my YouTube channel and personal blog!
@@ -368,15 +368,15 @@
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-### 🎓 Academic
+###  Academic
 - **B.Sc. in Computer Science and Engineering**
   - BRAC University, Bangladesh
   - Expected Graduation: 2026
   - Focus: Machine Learning, AI, and Robotics
 
-### 📜 Professional Certifications
+###  Professional Certifications
 - **Deep Learning Specialization** - DeepLearning.AI
 - **Machine Learning Specialization** - Stanford Online
 - **Convolutional Neural Networks** - DeepLearning.AI
@@ -388,9 +388,9 @@
 
 ---
 
-## 🌟 Community & Leadership
+##  Community & Leadership
 
-### 🤖 Robotics Club of BRAC University (ROBU)
+###  Robotics Club of BRAC University (ROBU)
 - **Position:** Secretary (2.5+ years)
 - **Responsibilities:**
   - Leading technical projects and workshops
@@ -398,7 +398,7 @@
   - Mentoring students in robotics and programming
   - Managing club operations and community engagement
 
-### 🤝 Volunteer Work
+###  Volunteer Work
 - Community service and social initiatives
 - Tech mentorship programs
 - Educational content creation
@@ -406,13 +406,13 @@
 
 ---
 
-## 💭 Quote I Live By
+##  Quote I Live By
 
 > *"The only way to do great work is to love what you do. Stay hungry, stay foolish."* - Steve Jobs
 
 ---
 <!-- 
-## 📊 Profile Statistics & Analytics
+##  Profile Statistics & Analytics
 
 <div align="center">
   
