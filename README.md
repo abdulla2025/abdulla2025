@@ -340,11 +340,6 @@
 </div>
 
 --- -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=24&pause=1000&color=4a6a85&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations+and+opportunities!+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7" alt="Closing Message" />
-  
-</div>
 
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Made%20with%20❤️%20by%20Abdulla%20Al%20Noman&fontSize=20&fontColor=fff&animation=twinkling" />
