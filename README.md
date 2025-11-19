@@ -273,14 +273,6 @@
 
 ---
 
-##  GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdulla2025&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ##  Achievements & Highlights
 
 -  **Secretary** at Robotics Club of BRAC University (ROBU)
@@ -326,83 +318,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=4A6A85&center=true&vCenter=true&width=600&lines=Open+for+Collaborations;MLOps+%7C+AI+%7C+Robotics+Projects;Let's+Connect+and+Innovate!" alt="Contact Animation" />
   
 </div>
-
----
-
-##  Current Goals for 2025
-
-- [ ] Master MLOps and deploy production-ready ML systems
-- [ ] Contribute to open-source AI/ML projects
-- [ ] Complete advanced certifications in Deep Learning
-- [ ] Build and deploy 5+ end-to-end ML projects
-- [ ] Run my 4th marathon
-- [ ] Grow YouTube channel to subscribers
-- [ ] Lead major robotics project at ROBU
-- [ ] Publish research papers on Cybersecurity & AI
-
----
-
-##  Featured Projects
-
-###  Machine Learning & AI
-- **Brain Tumor MRI Classification & Segmentation** - Deep Learning for medical image analysis
-- **Traffic Sign & Lane Detection** - Computer Vision for autonomous vehicles
-- **Voice Recognition System** - NLP and speech processing
-
-###  Full Stack Development
-- **MERN Portfolio Website** - Modern responsive portfolio with admin panel
-- **Medzy Healthcare Platform** - Full-stack medical consultation system
-
-###  Robotics & Embedded Systems
-- **ESP32 IoT Projects** - Smart home automation and sensor networks
-- **Arduino-based Systems** - Various robotics and automation projects
-- **3D Shooter Game** - Game development with physics engine
-
----
-
-##  Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon on my YouTube channel and personal blog!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-##  Education & Certifications
-
-###  Academic
-- **B.Sc. in Computer Science and Engineering**
-  - BRAC University, Bangladesh
-  - Expected Graduation: 2026
-  - Focus: Machine Learning, AI, and Robotics
-
-###  Professional Certifications
-- **Deep Learning Specialization** - DeepLearning.AI
-- **Machine Learning Specialization** - Stanford Online
-- **Convolutional Neural Networks** - DeepLearning.AI
-- **Sequence Models** - DeepLearning.AI
-- **Neural Networks and Deep Learning** - DeepLearning.AI
-- **Mathematics for Machine Learning Specialization** - Imperial College London
-- **Algorithms Specialization** - Stanford University
-- **And 12+ more certifications** in AI, ML, and Computer Science
-
----
-
-##  Community & Leadership
-
-###  Robotics Club of BRAC University (ROBU)
-- **Position:** Secretary (2.5+ years)
-- **Responsibilities:**
-  - Leading technical projects and workshops
-  - Organizing robotics competitions and events
-  - Mentoring students in robotics and programming
-  - Managing club operations and community engagement
-
-###  Volunteer Work
-- Community service and social initiatives
-- Tech mentorship programs
-- Educational content creation
-- Marathon running for charitable causes
 
 ---
 
