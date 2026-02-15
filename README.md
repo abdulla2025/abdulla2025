@@ -250,14 +250,14 @@
 <!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulla2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4a6a85&icon_color=4a6a85&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=abdulla2025&theme=tokyonight&hide_border=true&background=0d1117&stroke=4a6a85&ring=4a6a85&fire=4a6a85&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4a6a85&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" />
-</div> -->
+</div> 
 
 <br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=4a6a85&text_color=c9d1d9&border_radius=10&card_width=400" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulla2025&theme=github_dark" alt="Stats Summary" />
-</div>
+</div>-->
 
 <br/>
 
